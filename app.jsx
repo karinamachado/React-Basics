@@ -7,4 +7,4 @@ function Application(){
     );
 }
 
-ReactDOM.render(<h1>Hello!</h1>, document.getElementById('container'));
+ReactDOM.render(<Application />, document.getElementById('container'));
